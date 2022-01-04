@@ -1,0 +1,29 @@
+{
+  "name": "highorder-functions",
+  "version": "1.0.0",
+  "description": "Study of JS High Order Array methods",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muninnlabs/js-highorder-functions.git"
+  },
+  "keywords": [
+    "JS",
+    "study",
+    "functions",
+    "array methods"
+  ],
+  "author": "Alexandre Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muninnlabs/js-highorder-functions/issues"
+  },
+  "homepage": "https://github.com/muninnlabs/js-highorder-functions#readme",
+  "dependencies": {
+    "mongose": "^0.0.2-security",
+    "nodemon": "^2.0.15"
+  }
+}
